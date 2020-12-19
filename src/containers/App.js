@@ -43,7 +43,7 @@ class App extends Component {
                         </ErrorBoundry>
                     </Scroll>
                     <footer>
-                        <small>Made With 💗 By <a href='https://knackofabhinav.tech'>Abhinav</a></small>
+                        <h3>Made With 💗 By <a href='https://knackofabhinav.tech'>Abhinav</a></h3>
                     </footer>
                 </div>
             );
