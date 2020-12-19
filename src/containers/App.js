@@ -42,6 +42,9 @@ class App extends Component {
                             <CardList robots = {filteredRobots}/>
                         </ErrorBoundry>
                     </Scroll>
+                    <footer>
+                        <small>Made With 💗 By <a href='https://knackofabhinav.tech'>Abhinav</a></small>
+                    </footer>
                 </div>
             );
         
