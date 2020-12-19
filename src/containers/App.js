@@ -43,6 +43,7 @@ class App extends Component {
                         </ErrorBoundry>
                     </Scroll>
                     <footer>
+                        <h2><a href ='https://github.com/knackofabhinav/robofriend'>SOURCE CODE</a></h2>
                         <h3>Made With 💗 By <a href='https://knackofabhinav.tech'>Abhinav</a></h3>
                     </footer>
                 </div>
