@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# RoboFriends
+A React App which uses all the basic react feature from dividing into components, using props and state, fetching from an API, etc.
 
 ![alt text](https://github.com/knackofabhinav/robofriend/blob/main/template.jpg?raw=true)
 
